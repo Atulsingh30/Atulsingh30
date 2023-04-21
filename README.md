@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Developing my Frontend Skills*
 
-- 🌱 I’m currently learning *Angular and MongoDB*
+- 🌱 I’m currently learning *NodeJS*
 
 - 📫 How to reach me *singhatul2830@gmail.com*
 
